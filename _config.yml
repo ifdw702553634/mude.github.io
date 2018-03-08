@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://ifdw702553634.github.io/mude.github.io/
-root: /
+root: /mude.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ifdw702553634/mude.github.io.git
+  repo: https://ifdw702553634:Fdw19950121@github.com/ifdw702553634/mude.github.io
   branch: master
